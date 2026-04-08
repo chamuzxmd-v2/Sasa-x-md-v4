@@ -1,0 +1,36 @@
+{
+  "name": "SASA-X-MD",
+  "description": "Javascript WhatsApp bot made by Sasanka Chamuth",
+  "logo": "https://i.ibb.co/DPd51BK7/2c47d62ecc68.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "your seassion id",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "https://i.ibb.co/kVjBW3Zy/68a11c74b907.jpg",
+      "required": false
+    },
+
+    "AUTO_REPLY": {
+      "description": "true",
+      "required": true
+    },
+    
+    "AUTO_RECORDING": {
+      "description": "true",
+      "required": true 
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
