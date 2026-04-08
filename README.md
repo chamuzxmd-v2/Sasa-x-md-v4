@@ -1,15 +1,15 @@
-🤖 SASA X MD WhatsApp Bot
+## 🤖 SASA X MD WhatsApp Bot
 
 "SASA X MD Logo" (https://i.ibb.co/DPd51BK7/2c47d62ecc68.jpg)
 
-📌 About
+## 📌 About
 
 SASA X MD is a powerful and feature-rich WhatsApp bot created by Sasanka Chamuth.
 It is designed to enhance your WhatsApp experience with automation, media tools, and advanced protection features.
 
 ---
 
-✨ Features
+## ✨ Features
 
 Here are some of the amazing features included:
 
@@ -34,16 +34,17 @@ Here are some of the amazing features included:
 - 🎭 Fun & Entertainment Commands
 - ⚙️ Customizable Settings
 
-«🚀 And 20+ more features!»
+🚀 And 20+ more features!
 
 ---
 
-🧑‍💻 Developer
+## 🧑‍💻 Developer
 
 Sasanka Chamuth Fernando
+
 ---
 
-📢 Usage
+## 📢 Usage
 
 1. Scan the QR code / Pair code from WhatsApp.
 2. link device your account.
@@ -51,23 +52,23 @@ Sasanka Chamuth Fernando
 
 ---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This bot is for educational purposes only.
 Use it responsibly. The developer is not responsible for any misuse.
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub and share with others!
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 For support or inquiries, contact the developer.
 
 ---
 
-© 2026 SASA X MD - All Rights Reserved
+## © 2026 SASA X MD - All Rights Reserved
