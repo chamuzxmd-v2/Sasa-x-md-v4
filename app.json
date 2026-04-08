@@ -1,30 +1,51 @@
 {
-  "name": "SASA-X-MD",
-  "description": "Javascript WhatsApp bot made by Sasanka Chamuth",
+  "name": "SASA X MD",
+  "description": "Javascript WhatsApp bot made by Mr.Sasanka Chamuth",
   "logo": "https://i.ibb.co/DPd51BK7/2c47d62ecc68.jpg",
-  "keywords": ["bot"],
+  "keywords": ["SASA X MD"],
   "success_url": "/",
 
+    "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "your seassion id",
-      "required": true
-    },  
-
-    "ALIVE_IMG": {
-      "description": "https://i.ibb.co/kVjBW3Zy/68a11c74b907.jpg",
-      "required": false
+      "description": "Must Start with SASA X MD",
+      "required": true,
+      "value": "eRICEIJZ#2_vDLpLXbm4zg78BX1xZIBcOW61dTTAyqBVp95WRjW8"
     },
-
-    "AUTO_REPLY": {
-      "description": "true",
-      "required": true
+      "BOT_NAME": {
+        "description": "SASA X MD",
+        "required": true,
+        "value": "𝐒𝐀𝐒𝐀 𝐗 𝐌𝐃"      
+    },  
+    "MODE": {
+      "description": "Set private/public/inbox/groups",
+      "required": false,
+      "value": "public"
+     },
+   
+    "PREFIX": {
+      "description": "SASA X MD BOT PREFIX 🐍",
+      "required": true,
+      "value": "."
     },
     
-    "AUTO_RECORDING": {
-      "description": "true",
-      "required": true 
-    }   
+    "OWNER_NAME": {
+      "description": "Sasanka Chamuth Fdo",
+      "required": true,
+      "value": "𝐌𝐫.𝐒𝐚𝐬𝐚𝐧𝐤𝐚 𝐂𝐡𝐚𝐦𝐮𝐭𝐡"
+    },
+    "OWNER_NUMBER": {
+      "description": "94784167385",
+      "required": true,
+      "value": "94784167385"
+    },
+    
+    "PRESENCE": {
+      "description": "Put online/typing/recording/unavailable",
+      "required": true,
+      "value": "online"
+    }
+
 },
 
      "buildpacks": [
@@ -34,3 +55,4 @@
      ],
   "stack": "heroku-24"
 }
+  
